@@ -5,3 +5,5 @@
 
 ### _2024-10-29 10:10:00_ **[MissingCastle_MagicAwaken] Building Tower2** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/0d2f73f162b8e64d3c743520721122cb34c38365))
 
+### _2024-10-30 12:10:00_ **[MissingCastle_MagicAwaken] Detail tower2** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/6f0a4b0c11efa8103c47fd59675afc356824fe17))
+
