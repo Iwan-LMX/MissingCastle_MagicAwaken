@@ -11,3 +11,5 @@
 
 ### _2024-10-31 12:10:00_ **[MissingCastle_MagicAwaken] Finish bridge** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/1e9c1934397e2811a6421b961aa6a1a4e55a85f7))
 
+### _2024-11-01 08:11:00_ **[MissingCastle_MagicAwaken] Add Tower 4 and zipline** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/98528466c5fc8c3ccd9eb482c327e047d5eb2fd5))
+
