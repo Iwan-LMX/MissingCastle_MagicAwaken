@@ -13,3 +13,5 @@
 
 ### _2024-11-01 08:11:00_ **[MissingCastle_MagicAwaken] Add Tower 4 and zipline** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/98528466c5fc8c3ccd9eb482c327e047d5eb2fd5))
 
+### _2024-11-02 07:11:00_ **[MissingCastle_MagicAwaken] Add sea** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/8958db2d5b72deb81cd106a2b77977a50ebd5782))
+
