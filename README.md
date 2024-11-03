@@ -19,3 +19,5 @@
 
 ### _2024-11-03 06:11:00_ **[MissingCastle_MagicAwaken] Detailize level4** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/58022d15d50b0d4db8a7a7e62ef4bd7f394b4347))
 
+### _2024-11-03 09:11:00_ **[MissingCastle_MagicAwaken] Add fire ditail** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/0e751d10d78ceec228ab3ae5dc183621fd32a731))
+
