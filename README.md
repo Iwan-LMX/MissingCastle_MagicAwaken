@@ -17,3 +17,5 @@
 
 ### _2024-11-03 01:11:00_ **[MissingCastle_MagicAwaken] Merged PR 1: Try a merge** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/49a8ae44327fad9ec17e2f563d062e702b032573))
 
+### _2024-11-03 06:11:00_ **[MissingCastle_MagicAwaken] Detailize level4** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/58022d15d50b0d4db8a7a7e62ef4bd7f394b4347))
+
