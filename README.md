@@ -23,3 +23,5 @@
 
 ### _2024-11-04 06:11:00_ **[MissingCastle_MagicAwaken] Realize pushing box and teleport** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/cccc40f94b6f2e3dc3ad32ebc655800c4df1a61f))
 
+### _2024-11-04 07:11:00_ **[MissingCastle_MagicAwaken] Movable box** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/dd3eda1a8f31cb237e30dd817805eadcc853492b))
+
