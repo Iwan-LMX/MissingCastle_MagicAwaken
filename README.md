@@ -27,3 +27,5 @@
 
 ### _2024-11-05 01:11:00_ **[MissingCastle_MagicAwaken] E key to grab, double or tribe click E cancle** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/562f9809a64a76dfe8ce3ea28ccb8e7cb1413acf))
 
+### _2024-11-05 11:11:00_ **[MissingCastle_MagicAwaken] Realize pickup and drop item** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/f60bdcd108c642bf3aa9672b7201d7144e762eb7))
+
