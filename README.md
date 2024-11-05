@@ -25,3 +25,5 @@
 
 ### _2024-11-04 07:11:00_ **[MissingCastle_MagicAwaken] Movable box** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/dd3eda1a8f31cb237e30dd817805eadcc853492b))
 
+### _2024-11-05 01:11:00_ **[MissingCastle_MagicAwaken] E key to grab, double or tribe click E cancle** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/562f9809a64a76dfe8ce3ea28ccb8e7cb1413acf))
+
