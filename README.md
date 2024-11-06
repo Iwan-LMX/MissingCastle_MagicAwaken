@@ -33,3 +33,5 @@
 
 ### _2024-11-06 07:11:00_ **[MissingCastle_MagicAwaken] Add Key logic to door** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/eda520b7aef196de374f41fba875698c9846b6c8))
 
+### _2024-11-06 12:11:00_ **[MissingCastle_MagicAwaken] Finish wardrobe interaction** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/51f3aa9bd560c8317c077f27aef8b0b05012c785))
+
