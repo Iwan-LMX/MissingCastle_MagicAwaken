@@ -29,3 +29,5 @@
 
 ### _2024-11-05 11:11:00_ **[MissingCastle_MagicAwaken] Realize pickup and drop item** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/f60bdcd108c642bf3aa9672b7201d7144e762eb7))
 
+### _2024-11-06 00:11:00_ **[MissingCastle_MagicAwaken] Add Breakable Window** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/c8739a3fb7879e62f1bce3d1cc2397022dbb17c4))
+
