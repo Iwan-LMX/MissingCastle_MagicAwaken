@@ -31,3 +31,5 @@
 
 ### _2024-11-06 00:11:00_ **[MissingCastle_MagicAwaken] Add Breakable Window** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/c8739a3fb7879e62f1bce3d1cc2397022dbb17c4))
 
+### _2024-11-06 07:11:00_ **[MissingCastle_MagicAwaken] Add Key logic to door** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/eda520b7aef196de374f41fba875698c9846b6c8))
+
