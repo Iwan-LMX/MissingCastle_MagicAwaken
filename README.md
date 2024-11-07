@@ -53,3 +53,5 @@
 
 ### _2024-11-07 23:11:00_ **[MissingCastle_MagicAwaken] Set start main menu** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/89e24c41631c8f154510a6a2c8ccc640a8fef028))
 
+### _2024-11-07 23:11:00_ **[MissingCastle_MagicAwaken] Merge branch 'Level4'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/96f8e4e245ed211f7bb564551cabe1434a9b1a04))
+
