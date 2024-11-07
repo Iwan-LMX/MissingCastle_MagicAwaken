@@ -51,3 +51,5 @@
 
 ### _2024-11-07 10:11:00_ **[MissingCastle_MagicAwaken] Add tips to my level** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/c842c62e5f63f91eb50fab7a681957be1b9973f6))
 
+### _2024-11-07 23:11:00_ **[MissingCastle_MagicAwaken] Set start main menu** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/89e24c41631c8f154510a6a2c8ccc640a8fef028))
+
