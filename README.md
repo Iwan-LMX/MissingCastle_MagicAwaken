@@ -35,3 +35,5 @@
 
 ### _2024-11-06 12:11:00_ **[MissingCastle_MagicAwaken] Finish wardrobe interaction** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/51f3aa9bd560c8317c077f27aef8b0b05012c785))
 
+### _2024-11-07 03:11:00_ **[MissingCastle_MagicAwaken] Zipline function** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/1922ea9f34440265b01a09dfc799a78289158e41))
+
