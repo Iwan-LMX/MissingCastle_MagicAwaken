@@ -49,3 +49,5 @@
 
 ### _2024-11-07 07:11:00_ **[MissingCastle_MagicAwaken] Finish Interaction** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/cb744174641a550fefd43057d8aa0b23c4bb9f94))
 
+### _2024-11-07 10:11:00_ **[MissingCastle_MagicAwaken] Add tips to my level** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/c842c62e5f63f91eb50fab7a681957be1b9973f6))
+
