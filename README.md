@@ -55,3 +55,5 @@
 
 ### _2024-11-07 23:11:00_ **[MissingCastle_MagicAwaken] Merge branch 'Level4'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/96f8e4e245ed211f7bb564551cabe1434a9b1a04))
 
+### _2024-11-07 23:11:00_ **[MissingCastle_MagicAwaken] Update main menu logic** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/0a64e51898fd821d7edc72471cbb2fde98410702))
+
