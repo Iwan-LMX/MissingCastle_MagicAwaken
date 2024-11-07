@@ -37,3 +37,5 @@
 
 ### _2024-11-07 03:11:00_ **[MissingCastle_MagicAwaken] Zipline function** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/1922ea9f34440265b01a09dfc799a78289158e41))
 
+### _2024-11-07 03:11:00_ **[MissingCastle_MagicAwaken] Finish Zipline** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/72ab39cb5240c4694c46c197468816f6d01b7866))
+
