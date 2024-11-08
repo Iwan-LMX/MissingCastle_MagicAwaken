@@ -59,3 +59,5 @@
 
 ### _2024-11-08 01:11:00_ **[MissingCastle_MagicAwaken] Realize die and pass level** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/2df384e2736e2314ad3727249eb6d060cf2d5983))
 
+### _2024-11-08 05:11:00_ **[MissingCastle_MagicAwaken] Add audio effect** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/b723ac67a6d048dc654e7aad79982e22c2c29a43))
+
