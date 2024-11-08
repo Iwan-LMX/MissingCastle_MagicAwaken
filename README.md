@@ -57,3 +57,5 @@
 
 ### _2024-11-07 23:11:00_ **[MissingCastle_MagicAwaken] Update main menu logic** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/0a64e51898fd821d7edc72471cbb2fde98410702))
 
+### _2024-11-08 01:11:00_ **[MissingCastle_MagicAwaken] Realize die and pass level** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/2df384e2736e2314ad3727249eb6d060cf2d5983))
+
