@@ -63,3 +63,5 @@
 
 ### _2024-11-08 08:11:00_ **[MissingCastle_MagicAwaken] Almost all done** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/474d07df5c0a79f2eb00f5d32156d2c9640f8df4))
 
+### _2024-11-11 10:11:00_ **[MissingCastle_MagicAwaken] Testing for packaging** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/87f7514ff05e5c761e70165e48fefeefdc739830))
+
