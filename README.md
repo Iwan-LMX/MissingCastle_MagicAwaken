@@ -65,3 +65,5 @@
 
 ### _2024-11-11 10:11:00_ **[MissingCastle_MagicAwaken] Testing for packaging** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/87f7514ff05e5c761e70165e48fefeefdc739830))
 
+### _2024-11-12 04:11:00_ **[MissingCastle_MagicAwaken] Merge remote-tracking branch 'origin/Level--1-v1.0'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/00da0f5b081de8eda3e30dc9ed0885e5d61a3323))
+
