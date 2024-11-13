@@ -89,3 +89,5 @@
 
 ### _2024-11-13 09:11:00_ **[MissingCastle_MagicAwaken] Merge branch 'Level4'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/8f213034530e02c4718712316a13a874d071cd93))
 
+### _2024-11-13 10:11:00_ **[MissingCastle_MagicAwaken] Update level4's dialog** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/67f4cc79d1efb1aaf434c2e7fecbd0a1dfb0d907))
+
