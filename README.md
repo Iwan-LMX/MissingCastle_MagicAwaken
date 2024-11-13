@@ -91,3 +91,5 @@
 
 ### _2024-11-13 10:11:00_ **[MissingCastle_MagicAwaken] Update level4's dialog** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/67f4cc79d1efb1aaf434c2e7fecbd0a1dfb0d907))
 
+### _2024-11-13 23:11:00_ **[MissingCastle_MagicAwaken] Reset jump height, and set cooking maps** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/6a4d2f43b05875a99f7862b5130a871ddb5ea6e1))
+
