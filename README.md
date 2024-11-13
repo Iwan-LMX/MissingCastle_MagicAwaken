@@ -69,3 +69,5 @@
 
 ### _2024-11-12 07:11:00_ **[MissingCastle_MagicAwaken] Update** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/f8655dcaffbebac1a2f211d386bce809d8b44b6e))
 
+### _2024-11-13 03:11:00_ **[MissingCastle_MagicAwaken] Merge level2** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/b42af6459b14efcd75e0ad8afcfd821c0825f662))
+
