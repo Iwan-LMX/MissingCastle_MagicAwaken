@@ -79,3 +79,5 @@
 
 ### _2024-11-13 07:11:00_ **[MissingCastle_MagicAwaken] Merge remote-tracking branch 'origin/NewLevel1'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/93b73dbc6bbc0ed6a3de19ada14a27a2f490e487))
 
+### _2024-11-13 08:11:00_ **[MissingCastle_MagicAwaken] Merge branch 'level2' of https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken into level2** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/a6133988f9e00a9e4e96101d32b6f45b1e932504))
+
