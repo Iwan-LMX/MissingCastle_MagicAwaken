@@ -93,3 +93,5 @@
 
 ### _2024-11-13 23:11:00_ **[MissingCastle_MagicAwaken] Reset jump height, and set cooking maps** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/6a4d2f43b05875a99f7862b5130a871ddb5ea6e1))
 
+### _2024-11-14 00:11:00_ **[MissingCastle_MagicAwaken] Reset Level2** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/ee30bd62850cc488dcb21334be247b97d380ff9c))
+
