@@ -95,3 +95,5 @@
 
 ### _2024-11-14 00:11:00_ **[MissingCastle_MagicAwaken] Reset Level2** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/ee30bd62850cc488dcb21334be247b97d380ff9c))
 
+### _2024-11-16 09:11:00_ **[MissingCastle_MagicAwaken] Fix stairs and format blueprint** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/4fc9587991898c74dbac0f237369acdc6a320cdc))
+
