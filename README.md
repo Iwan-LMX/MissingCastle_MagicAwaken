@@ -97,3 +97,5 @@
 
 ### _2024-11-16 09:11:00_ **[MissingCastle_MagicAwaken] Fix stairs and format blueprint** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/4fc9587991898c74dbac0f237369acdc6a320cdc))
 
+### _2024-11-19 05:11:00_ **[MissingCastle_MagicAwaken] Level4 integration version** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/c9dc3ac317516ed96cab6053f59c3520dad2946d))
+
