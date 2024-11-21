@@ -101,3 +101,5 @@
 
 ### _2024-11-21 14:11:00_ **[MissingCastle_MagicAwaken] Merged PR 4: Finish Level4** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/1dbf25d2dd25f49795747105ecd624bbffcbf2ea))
 
+### _2024-11-21 21:11:00_ **[MissingCastle_MagicAwaken] Merge remote-tracking branch 'origin/Level1-V5'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/125f41d48978fc23a361b1ff239222a261ed542f))
+
