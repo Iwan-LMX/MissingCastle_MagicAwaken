@@ -103,3 +103,5 @@
 
 ### _2024-11-21 21:11:00_ **[MissingCastle_MagicAwaken] Merge remote-tracking branch 'origin/Level1-V5'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/125f41d48978fc23a361b1ff239222a261ed542f))
 
+### _2024-11-21 22:11:00_ **[MissingCastle_MagicAwaken] Fix MainMenu Bugs** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/00f960dda8ed3a63b9e478120091302ef96facfc))
+
