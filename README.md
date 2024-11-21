@@ -99,3 +99,5 @@
 
 ### _2024-11-19 05:11:00_ **[MissingCastle_MagicAwaken] Level4 integration version** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/c9dc3ac317516ed96cab6053f59c3520dad2946d))
 
+### _2024-11-21 14:11:00_ **[MissingCastle_MagicAwaken] Merged PR 4: Finish Level4** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/1dbf25d2dd25f49795747105ecd624bbffcbf2ea))
+
