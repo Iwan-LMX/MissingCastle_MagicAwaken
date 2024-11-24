@@ -107,3 +107,5 @@
 
 ### _2024-11-21 23:11:00_ **[MissingCastle_MagicAwaken] Update timer** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/912af4e2a8cb876cbfb2811db307946217c58df1))
 
+### _2024-11-24 07:11:00_ **[MissingCastle_MagicAwaken] Merge remote-tracking branch 'origin/Level1-V5'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/8ba64334ead3a32d36eca7f4217c480987834844))
+
