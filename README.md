@@ -117,3 +117,5 @@
 
 ### _2024-11-25 13:11:00_ **[MissingCastle_MagicAwaken] Fix Level1 bugs** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/077dbfb979ef2b71e9f563f0a0a59f75952dde75))
 
+### _2024-11-25 13:11:00_ **[MissingCastle_MagicAwaken] Merge branch 'Level1'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/0aa28c16acdb17c78847c05fa7220f5038cee7df))
+
