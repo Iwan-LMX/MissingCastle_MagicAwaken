@@ -125,3 +125,5 @@
 
 ### _2024-11-25 20:11:00_ **[MissingCastle_MagicAwaken] Update integration** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/85d1c86b0dc52b35570d08276853e4bb189e524c))
 
+### _2024-11-25 20:11:00_ **[MissingCastle_MagicAwaken] Update PasswordKey.uasset** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/65d03f6b3f2736ad5f0a821fb503032f1ac8204c))
+
