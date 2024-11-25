@@ -123,3 +123,5 @@
 
 ### _2024-11-25 20:11:00_ **[MissingCastle_MagicAwaken] Merge branch 'FixMain'** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/82c5f8f9291cd28c54a8b71e40d459c6a84c8a8d))
 
+### _2024-11-25 20:11:00_ **[MissingCastle_MagicAwaken] Update integration** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/85d1c86b0dc52b35570d08276853e4bb189e524c))
+
