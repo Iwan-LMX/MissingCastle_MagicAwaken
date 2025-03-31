@@ -1,4 +1,14 @@
+# Introduce
+This is a my first UE5 project in a team, this is a small 3D maze game. The repo existed in Azure, here is an activity records.
 
+The project is been saved on [Azure DevOps Repo](https://dev.azure.com/missingCastle/_git/MissingCastle_MagicAwaken)
+Here just a repo for recording my activities on Azure, so the the activities can be shown in my calendar.
+
+
+# Contributors
+This project is developed by [Iwan Li](iwan.li@outlook.com), [Han Chen], [Yishan Ma](https://github.com/085hyx), [Minghe Kong]
+
+# Commit Logs
 ### _2024-10-11 10:10:00_ **[MissingCastle_MagicAwaken] Set Develop floders** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/0adc55bd4588af327c1ca239bce8599748351d9a))
 
 ### _2024-10-13 06:10:00_ **[MissingCastle_MagicAwaken] Finish Tower 1 and Tower 2 frame** ([link](https://dev.azure.com/missingCastle/MissingCastle_MagicAwaken/_git/MissingCastle_MagicAwaken/commit/83847cb5b5baf9b722c9f0790ea0c89150b2d4e9))
